@@ -709,10 +709,6 @@ hr {
 /*reviews*/
 .reviews {
     position: relative;
-
-
-
-    border: 1px solid red;
 }
 
 .reviews .slick-slider {
@@ -723,10 +719,6 @@ hr {
     padding-left: 260px;
     position: relative;
     min-height: 210px;
-
-
-
-    border: 1px solid blue;
 }
 
 .reviews__photo {
@@ -749,16 +741,12 @@ hr {
     font-weight: 300;
     color: #999;
 
-    border: 1px solid black;
-
 }
 
 .reviews__author {
     font-size: 24px;
     color: #333;
     font-family: 'Comic Sans MS', cursive, sans-serif;
-
-    border: 1px solid black;
 }
 
 .reviews__author:before {
@@ -787,7 +775,6 @@ hr {
     z-index: 1;
     transform: translateY(-50%);
 
- border: 1px solid green;
 }
 
 .slick-arrow:focus {
